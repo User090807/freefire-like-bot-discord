@@ -1,0 +1,5 @@
+discord.py>=2.3.2
+python-dotenv>=1.0.1
+httpx>=0.24.1
+protobuf>=4.24.0
+pycryptodome>=3.18.0
