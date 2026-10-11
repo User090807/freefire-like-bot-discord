@@ -14,7 +14,7 @@ Quando o código do bot estiver disponível:
 2. Preencha `DISCORD_TOKEN`, `GUILD_ID`, `ADMIN_IDS` e `JWT_SECRET` com os valores do seu ambiente.
 3. Mantenha os valores reais somente em `.env` local ou nos Secrets do Replit — nunca no GitHub nem no chat.
 
-O arquivo `.gitignore` exclui `.env` e arquivos de dados locais. Se um token já foi publicado, revogue-o no Discord Developer Portal e gere outro: apagar o valor da versão atual não o remove do histórico do Git.
+O `.gitignore` exclui `.env` e arquivos de dados locais. Se um token já foi publicado, revogue-o no Discord Developer Portal e gere outro: apagar o valor da versão atual não o remove do histórico do Git.
 
 ## Setup
 
